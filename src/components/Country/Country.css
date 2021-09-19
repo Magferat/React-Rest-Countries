@@ -1,0 +1,11 @@
+.card{
+    
+    margin: 20px;
+    background-color: thistle;
+    padding: 10px;
+    padding-bottom: 0;
+    border: 1px solid violet;
+    box-shadow: 3px 3px #888888;
+    font-size: xx-small;
+    border-radius: 5px;
+}

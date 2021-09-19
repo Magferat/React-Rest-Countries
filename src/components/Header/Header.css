@@ -1,0 +1,11 @@
+.link a{
+    text-decoration: none;
+    margin: 20px;
+    color: maroon;
+    font-weight: 500;
+    
+}
+nav{
+    background-color: burlywood;
+    padding: 12px;
+}
