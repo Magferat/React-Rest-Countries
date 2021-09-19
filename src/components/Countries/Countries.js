@@ -11,7 +11,7 @@ const Countries = () => {
     console.log(countries);
     return (
         <div className='body-style'>
-            <h1>AllHAMDULILLAH !!</h1>
+
             <h5>Country Fond : {countries.length}</h5>
             <div className="cards">{
                 countries.map(country => <Country
